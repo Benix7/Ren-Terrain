@@ -1,0 +1,23 @@
+# Unity build output
+*.exe
+*.dll
+*.pdb
+*_Data/
+*_BackUpThisFolder_ButDontShipItWithYourGame/
+*_BurstDebugInformation_DoNotShip/
+D3D12/
+
+# Unity/editor generated folders, in case the source project is added later
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
